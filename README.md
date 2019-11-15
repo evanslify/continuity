@@ -1,6 +1,7 @@
 # Apple Continuity Re-Implementation
 
 This is a repository related to my talk at HITCON 2019. Slides will be released after the conference is over.
+Presentation is in the repo `hitcon-2019.pdf`.
 
 ## Usage
 
